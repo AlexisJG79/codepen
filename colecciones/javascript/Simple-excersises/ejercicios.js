@@ -37,7 +37,7 @@ document.getElementById("base_aleatoria").innerHTML = base
 document.getElementById("altura_aleatoria").innerHTML = altura
 document.getElementById("area_aleatoria").innerHTML = area_aleatoria
 
-/*----------------test-console---------------*/ 
+/*----------------test-console---------------*/
 console.log("Hello world");
 console.log(1);
 console.log(2);
@@ -50,13 +50,14 @@ console.log(8);
 console.log(9);
 console.log(10);
 
-
+/*----------------[Area de rectangulo random]---------------*/
 console.log("base rectangulo random: " + base);
 console.log("altura rectangulo random: " + altura);
 console.log("area rectangulo random: " + area_aleatoria);
 
+/*----------------[For loop]---------------*/
 for (let i = 0; i < 11; i++) {
-  console.log(i);
+    console.log(i);
 }
 
 
