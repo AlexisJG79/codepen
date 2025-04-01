@@ -1,29 +1,29 @@
-body{
-    background:blue;
-  }
-  
-  h2{
-    text-align:center;
-    margin-top:30px;
-    color:white;
-  }
-  
-  .ejercicios{
-    display: flex;
-    justify-content: center;
-    flex-wrap:wrap;
-    gap: 30px;
-    padding: 20px;
-    
-    }
-  
-  .ejercicio{
-    border-radius: 10px;
-    padding: 15px;
-    min-width: 250px; 
-    height:auto;
-    outline: 2px solid black;
-    gap:50px;  
-    text-align:center;
-    background:white;
-  }
+body {
+  background: blue;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+}
+
+.ejercicios {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+
+}
+
+.ejercicio {
+  border-radius: 10px;
+  padding: 15px;
+  min-width: 250px;
+  height: auto;
+  outline: 2px solid black;
+  gap: 50px;
+  text-align: center;
+  background: white;
+}
